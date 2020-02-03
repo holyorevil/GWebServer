@@ -1,0 +1,9 @@
+2019-12-11 09:50:44
+[INFO]  test.cpp : 8
+hello world!
+2019-12-11 09:50:44
+[WARN]  test.cpp : 9
+hello world!
+2019-12-11 09:50:44
+[ERROR] test.cpp : 10
+hello world!
