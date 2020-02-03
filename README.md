@@ -21,12 +21,18 @@
 ### 四、项目测试
 ##### 1、日志测试
 日志测试以muduo服务器为对照，测试数据如下：
+
 ![日志测试数据表](https://github.com/holyorevil/GWebServer/blob/master/pic/logtest.png)
+
 分析制作成折线图如下：
 ![日志短连接测试折线图](https://github.com/holyorevil/GWebServer/blob/master/pic/shortlog.png)
+
 ![日志长连接测试折线图](https://github.com/holyorevil/GWebServer/blob/master/pic/longlog.png)
+
 ##### 2、压力测试
-压力测试使用的是开源压测工具webbench，并且以muduo和另一个类muduo开源网络库WebServer(https://github.com/linyacool/WebServer)作为参考对象：
+压力测试使用的是开源压测工具webbench，并且以muduo和另一个类muduo开源网络库WebServer(https://github.com/linyacool/WebServer) 作为参考对象：
+
 ![压测数据表](https://github.com/holyorevil/GWebServer/blob/master/pic/pressuretest.png)
+
 ![压测柱状图](https://github.com/holyorevil/GWebServer/blob/master/pic/pressurepic.png)
 
